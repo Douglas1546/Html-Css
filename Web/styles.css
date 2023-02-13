@@ -1,0 +1,27 @@
+.titles{
+    color: black;
+    font-size: 40px;
+    
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    margin-top: 1%;
+}
+
+h3{
+    margin-top: 5%;
+}
+
+.subtitles{
+    color: black;
+    font-size: 25px;
+}
+
+html{
+    font-style: arial;
+}

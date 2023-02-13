@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #000000;
+    margin: 0px;
+    border: 200px;
+    padding: 100px;
+    /*margin-left: 800px;
+    margin-right: 800px;*/
+}
+
+p{
+    font-size: 20px;
+    color: black;
+    
+}
+
+.Hoje{
+    color: darkred;
+    
+}
+.Amanha{
+    color:  darkblue;
+}
